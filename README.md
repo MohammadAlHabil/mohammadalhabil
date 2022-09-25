@@ -6,7 +6,7 @@ Web Developer & UX/UI Designer
 
 * 🌍  I'm based in Palestine
 * ✉️  You can contact me at [eng.mohammadalhabil@gmail.com](mailto:eng.mohammadalhabil@gmail.com)
-* 🧠  I'm learning Recat.js
+* 🧠  I love to learning a new things
 * 🤝  I'm open to collaborating on Chat project
 
 ### Skills
